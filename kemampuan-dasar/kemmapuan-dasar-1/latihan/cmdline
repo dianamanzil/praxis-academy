@@ -1,0 +1,253 @@
+1. C:\Users\HP>date /t
+18/10/2019
+
+2. C:\Users\HP>assoc .txt
+.txt=txtfile
+
+3. C:\Users\HP>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 80BC-9A6E
+
+ Directory of C:\Users\HP
+
+18/10/2019  21:45    <DIR>          .
+18/10/2019  21:45    <DIR>          ..
+23/11/2018  20:26    <DIR>          .anaconda
+01/12/2018  22:46    <DIR>          .conda
+02/06/2019  21:12                43 .condarc
+16/05/2019  12:11    <DIR>          .designer
+13/04/2019  08:41                61 .gitconfig
+26/06/2019  09:55    <DIR>          .ipynb_checkpoints
+23/11/2018  20:30    <DIR>          .ipython
+23/05/2019  14:12    <DIR>          .jupyter
+26/11/2018  02:15    <DIR>          .matplotlib
+07/12/2018  21:35    <DIR>          .spss
+28/08/2019  08:33    <DIR>          .spyder-py3
+23/11/2018  20:08    <DIR>          .vscode
+16/08/2019  05:05    <DIR>          3D Objects
+25/06/2019  01:17    <DIR>          Anaconda3
+16/05/2019  12:55               201 coba.py
+16/08/2019  05:05    <DIR>          Contacts
+07/12/2018  20:41    <DIR>          data-science-with-python-master
+07/12/2018  20:31         1.056.466 dataDrug.csv
+07/12/2018  22:04         1.052.009 DataMining.csv
+08/12/2018  16:08         1.051.000 DataMining_1.csv
+01/12/2018  11:39             1.582 dataset.csv
+12/12/2018  01:40           365.204 Dataset_DataMining.csv
+16/08/2019  05:05    <DIR>          Desktop
+16/10/2019  13:11    <DIR>          Documents
+09/10/2019  21:11    <DIR>          Downloads
+07/12/2018  20:05         1.056.469 drug_consumption.csv
+16/08/2019  05:05    <DIR>          Favorites
+01/12/2018  18:51           115.482 Forecasting.ipynb
+31/01/2019  12:50         4.673.848 geckodriver-v0.24.0-win64.zip
+22/12/2018  21:45             2.865 GUI.ipynb
+16/08/2019  05:05    <DIR>          Links
+16/08/2019  05:05    <DIR>          Music
+07/10/2019  18:33    <DIR>          OneDrive
+18/08/2019  09:36    <DIR>          Pictures
+30/11/2018  19:20             1.892 robberies.csv
+16/08/2019  05:05    <DIR>          Saved Games
+16/08/2019  05:05    <DIR>          Searches
+01/12/2018  13:28             1.843 stationary.csv
+16/05/2019  12:48               199 TA.py
+16/05/2019  12:53               202 tugas.py
+18/10/2019  21:45    <DIR>          tugas_tik
+23/11/2018  20:32               555 Untitled.ipynb
+15/12/2018  22:14            89.649 Untitled1.ipynb
+01/12/2018  08:04               555 Untitled2.ipynb
+01/12/2018  11:16            12.082 Untitled3.ipynb
+08/12/2018  16:33            21.369 Untitled4.ipynb
+13/12/2018  10:45             7.192 Untitled5.ipynb
+30/01/2019  21:37             3.007 Untitled6.ipynb
+06/03/2019  11:56             1.649 Untitled7.ipynb
+24/06/2019  21:45                72 Untitled8.ipynb
+26/06/2019  09:55                72 Untitled9.ipynb
+01/12/2018  11:39               150 validation.csv
+16/08/2019  05:05    <DIR>          Videos
+14/12/2018  11:43    <DIR>          wekafiles
+              27 File(s)      9.515.718 bytes
+              29 Dir(s)  10.032.648.192 bytes free
+
+4. C:\Users\HP>cd Downloads
+
+C:\Users\HP\Downloads>D:
+
+D:\>
+
+5. D:\>color 84
+Hasilnya background cmd berubah jadi grey dan font berwarna merah
+
+6.D:\>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAPTOP-1D1EOELT
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Mixed
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : F4-39-09-D9-3C-E3
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : D2-C5-D3-36-A5-31
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : D0-C5-D3-36-A5-31
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+   Physical Address. . . . . . . . . : D0-C5-D3-36-A5-31
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : D0-C5-D3-36-A5-30
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+7. D:\>dir C:/s>struktur.txt
+
+8. D:\>copy E:\angka.xlsx F:\nid\angka.xlsx
+        1 file(s) copied.
+
+9. 
+D:\>help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+10. D:\>md Latihan
+
+11. D:\>powercfg energy
+This command requires administrator privileges and must be executed from an elevated command prompt.
+
+12. D:\>systeminfo >E:\info.txt
+
+13. D:\>appwiz.cpl
+
+14. D:\>charmap
+
+
