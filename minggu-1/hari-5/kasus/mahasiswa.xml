@@ -1,0 +1,11 @@
+<mahasiswa>
+	<noInduk>1215101</noInduk>
+	<namaDepan>Budi</namaDepan>
+	<namaBelakang>Jaya</namaBelakang>
+	<alamat>
+		<namaJalan>Jl. Arif Rahman Hakim</namaJalan>
+		<kecamatan>Sukolilo</kecamatan>
+		<kota>Surabaya</kota>
+		<kodePos>60111</kodePos>
+	</alamat>
+	<noTelepon>031 555-1234<noTelepon

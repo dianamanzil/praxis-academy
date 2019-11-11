@@ -1,0 +1,8 @@
+var mahasiswa ={"noInduk" : "1215101",
+				"namaDepan" : "Budi",
+				"namaBelakang" : "Jaya",
+				"alamat" : "namaJalan":"Jl. Arif Rahman Hakim",
+							"kecamatan" : "Sukolilo",
+							"kota" : "Surabaya"
+							"kodePos" : 60111
+				"noTelepon" : ["031 555-1234", "031 555-4567"]}
